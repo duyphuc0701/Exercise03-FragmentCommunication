@@ -8,4 +8,12 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="imdb_logo">IMDB Logo</string>
     <string name="moviePoster">Movie Poster</string>
+    <string name="question_movies">LIKE THE MOVIES?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exception_message">Exception</string>
+    <string name="yes_message">MOVIES: Like</string>
+    <string name="no_message">MOVIES: Thanks</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
 </resources>
