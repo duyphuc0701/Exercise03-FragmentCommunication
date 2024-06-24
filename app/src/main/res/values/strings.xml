@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Top Movies</string>
+    <string name="title_song_detail">Movie Detail</string>
+    <string name="article_title">IMDb Top Movies</string>
+    <string name="article_subtitle">As rated by regular IMDb voters.</string>
+    <string name="movie_detail_description">Movie Detail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imdb_logo">IMDB Logo</string>
+    <string name="moviePoster">Movie Poster</string>
+</resources>
